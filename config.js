@@ -1,14 +1,14 @@
 let fs = require('fs')                    //CREATOR = GEMPY , DEVBOT
 let chalk = require('chalk')
 global.owner = [
-  ['6287898307350'],
-  ['66287898307350'],
-  ['6287898307350', 'gempy', true]  
+  ['6287831305832'],
+  ['6287831305832'],
+  ['6287831305832', 'Reyu', true]  
   
 ] 
-global.ownername = [['Gempy']]
-global.namabot = [['PENTABOT']]
-global.ownerinsta = [['@gmpyyy']]
+global.ownername = [['Reyu']]
+global.namabot = [['Reyu Botz']]
+global.ownerinsta = [['@reyhan_yoo']]
 global.mods = [] 
 global.prems = [] 
 
